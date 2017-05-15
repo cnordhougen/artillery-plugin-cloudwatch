@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nigelarcher/artillery-plugin-cloudwatch.git"
+    "url": "git+https://github.com/nordstrom/artillery-plugin-cloudwatch.git"
   },
   "keywords": [
     "artillery",
